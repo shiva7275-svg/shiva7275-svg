@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Shiva Tiwari
 
-<!--
-**shiva7275-svg/shiva7275-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 MCA Student | Aspiring Full Stack Developer | Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing Master of Computer Applications (MCA) at Chandigarh University, Unnao, India.
+
+I'm passionate about technology, programming, and building useful real-world applications.
+
+### 🚀 About Me
+- 🎓 MCA Student
+- 💻 Aspiring Full Stack Developer
+- 👨‍💻 Interested in Software Development
+- 🌱 Learning and improving my programming skills
+- 🎯 Goal: Become a professional Software Developer
+
+### 🛠️ Technical Skills
+- Python
+- SQL
+- HTML
+- CSS
+- Microsoft Excel
+- Microsoft Word
+
+### 🎯 Currently Learning
+- JavaScript
+- Web Development
+- Data Structures & Algorithms
+
+### 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/shiva-tiwari-8a55a637b/
+
+### ⭐ Thank You for Visiting My Profile!
